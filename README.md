@@ -15,3 +15,5 @@ An interactive Streamlit app that detects whether a news article is real or fake
 - gTTS
 - PyPDF2
 - Lottie Animations
+
+- for running: https://fake-news-detector-atawczxu7j5etf9575auvz.streamlit.app/
