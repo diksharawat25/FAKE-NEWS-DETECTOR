@@ -22,7 +22,7 @@ st_lottie(home_animation, height=300)
 st.markdown("Welcome to the Fake News Detector App. Upload news files and check whether it's **Real** or **Fake**.")
 
 if st.button("🚀 Get Started"):
-    st.write("Navigation test — pages folder found successfully!")
+    st.switch_page("Pages/predict.py")
 
 
 # python -m streamlit run app.py
