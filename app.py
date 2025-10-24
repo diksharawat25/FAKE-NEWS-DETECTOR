@@ -22,7 +22,7 @@ st_lottie(home_animation, height=300)
 st.markdown("Welcome to the Fake News Detector App. Upload news files and check whether it's **Real** or **Fake**.")
 
 if st.button("🚀 Get Started"):
-    st.switch_page("predict")  # Only the filename (without .py)
+    st.switch_page("pages/predict.py")  # Only the filename (without .py)
 
 
 
