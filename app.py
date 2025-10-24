@@ -24,4 +24,5 @@ st.markdown("Welcome to the Fake News Detector App. Upload news files and check 
 if st.button("🚀 Get Started"):
     st.switch_page("predict.py")
 
+
 # python -m streamlit run app.py
